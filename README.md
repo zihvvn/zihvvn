@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello 👋<br>I'm Zihaan. A Software Engineer Based in Maldives.
+# Hello 👋:
+I'm Zihaan. A Software Engineer Based in Maldives.
 
 
 ## 🌐 Socials:
