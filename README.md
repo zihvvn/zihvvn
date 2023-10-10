@@ -2,7 +2,7 @@
 I'm Zihaan. A Software Engineer Based in Maldives.
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zihaarrnn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zihaarrnn) 
 
 # 💻 Tech Stack:
