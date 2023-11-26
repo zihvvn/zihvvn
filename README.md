@@ -1,5 +1,5 @@
 # Hello 👋:
-I'm Zihaan. A Software Developer Based in Maldives.
+I'm Zihaan. A Full stack Developer Based in Maldives.
 
 
 
