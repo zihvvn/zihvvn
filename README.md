@@ -8,6 +8,4 @@ A Full-stack Software dev from Maldives.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zihaarn&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
