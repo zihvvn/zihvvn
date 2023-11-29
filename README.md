@@ -1,4 +1,4 @@
-## Hello 👋:
+## Hello:
 I'm Zihaan. A Full stack Developer Based in Maldives.
 
 
