@@ -1,4 +1,4 @@
-### Hey there buddy!
+### Hello 👋
 A Full-stack Software dev from Maldives.
 
 
