@@ -5,7 +5,7 @@
 
 <div align="center" display="flex">
 
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/zihvvn)
+[![X](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://twitter.com/zihvvn)
 
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/339896687466381312)
 
