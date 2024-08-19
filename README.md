@@ -13,7 +13,7 @@
 
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=reddit)](https://www.reddit.com/user/Hazork_)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/arthurfiorette)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/abdulla-zihaan)
 
 </div>
 
