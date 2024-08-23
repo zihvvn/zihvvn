@@ -3,7 +3,7 @@ import random
 
 class Me:
     def __init__(self):
-        self.greeting = "Yeet! 👋, I'm Zihaan"
+        self.greeting = "hello!, I'm Zihaan"
         self.bio = "Software engineer from Maldives"
         self.languages = ['javascript', 'typescript', 'python']
         self.frameworks = ['NextJS', 'React']
