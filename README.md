@@ -7,8 +7,8 @@ class Me:
         self.bio = "Software engineer from Maldives"
         self.languages = ['javascript', 'typescript', 'python']
         self.frameworks = ['NextJS', 'React']
-        self.website = 'dev.idhaan.me'
-        self.projects = ['https://donors.ungoodhoo.live']
+        self.website = 'zihvvn.vercel.app'
+        self.projects = ['https://www.autakey.com']
         self.facts = [
             "I love Telegram.",
             "Not only do I love Telegram, I obsess over it.",
