@@ -1,7 +1,7 @@
 <h2 align="center">hello! i'm zihaan.</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=full-stack+developer+from+the+tiny+dots+in+the+middle+of+the+ocean." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1400&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=full-stack+developer;from+the+tiny+dots+in+the+middle+of+the+ocean." alt="Typing SVG" />
 </p>
 
 <p align="center">
